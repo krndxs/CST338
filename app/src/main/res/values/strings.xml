@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EOS Login</string>
+    <string name="no_items">No items</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_quantity">Item Quantity</string>
+    <string name="item_price">Item Price</string>
+    <string name="back">Back</string>
+</resources>
